@@ -1,3 +1,14 @@
+Servidor
+Té varis Servidors amb els que es comunica
+Te varis dispositius
+Lloc
+
+Dispositiu
+Pertany a un servidor
+Te varis sensors
+Lloc
+
+
 --------------------
 
 IOT - Simul·lació
@@ -9,7 +20,7 @@ No hi ha accés als dispositius que ja hi han en tot el mon.
 
 Simul·lació de dades generats per un conjunt de sistemes IOT
 
-[IoT lab](www.iot-lab.info)
+[IoT lab](https://www.iot-lab.info)
 
 Volem una plataforma de proves de un desplegat de dispositius iot (simul·lació)
 gast energetic, consum de red.
